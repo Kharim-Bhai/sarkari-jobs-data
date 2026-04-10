@@ -1,6 +1,6 @@
 [
   {
-    "id": "scraped_1",
+    "id": "ad9d4ee5154b",
     "title": "BEL Announces Recruitment for 340 Probationary Engineer Positions",
     "org": "Various Government Organizations",
     "category": "General",
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "id": "scraped_2",
+    "id": "3ff266d666b2",
     "title": "DMRC Announces Recruitment for Non-Executives for Mumbai Metro Line-3 Operations",
     "org": "Various Government Organizations",
     "category": "General",
@@ -54,7 +54,7 @@
     ]
   },
   {
-    "id": "scraped_3",
+    "id": "c86894753c5f",
     "title": "ONGC Announces Recruitment for Experienced Civil Structural Engineers",
     "org": "Various Government Organizations",
     "category": "General",
@@ -81,196 +81,7 @@
     ]
   },
   {
-    "id": "scraped_4",
-    "title": "BEL Announces Recruitment for 340 Probationary Engineer Positions",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: BEL Announces Recruitment for 340 Probationary Engineer Positions",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/bel-announces-recruitment-for-340-probationary-engineer-positions/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "scraped_5",
-    "title": "DMRC Announces Recruitment for Non-Executives for Mumbai Metro Line-3 Operations",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: DMRC Announces Recruitment for Non-Executives for Mumbai Metro Line-3 Operations",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/dmrc-announces-recruitment-for-non-executives-for-mumbai-metro-line-3-operations/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "scraped_6",
-    "title": "ONGC Announces Recruitment for Experienced Civil Structural Engineers",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: ONGC Announces Recruitment for Experienced Civil Structural Engineers",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/ongc-announces-recruitment-for-experienced-civil-structural-engineers/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "scraped_7",
-    "title": "BEL Announces Recruitment for 340 Probationary Engineer Positions",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: BEL Announces Recruitment for 340 Probationary Engineer Positions",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/bel-announces-recruitment-for-340-probationary-engineer-positions/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "scraped_8",
-    "title": "DMRC Announces Recruitment for Non-Executives for Mumbai Metro Line-3 Operations",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: DMRC Announces Recruitment for Non-Executives for Mumbai Metro Line-3 Operations",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/dmrc-announces-recruitment-for-non-executives-for-mumbai-metro-line-3-operations/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "scraped_9",
-    "title": "ONGC Announces Recruitment for Experienced Civil Structural Engineers",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: ONGC Announces Recruitment for Experienced Civil Structural Engineers",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/ongc-announces-recruitment-for-experienced-civil-structural-engineers/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "scraped_10",
-    "title": "BEL Announces Recruitment for 340 Probationary Engineer Positions",
-    "org": "Various Government Organizations",
-    "category": "General",
-    "category_id": "general",
-    "posts": 1,
-    "type": "Permanent",
-    "level": "Central",
-    "state": "All India",
-    "state_id": "all_india",
-    "min_qual_id": "graduate",
-    "qualification": "Varies",
-    "age": "18-35 years",
-    "salary": "As per rules",
-    "deadline": "Check website",
-    "featured": false,
-    "posted": "Just now",
-    "description": "Job opportunity: BEL Announces Recruitment for 340 Probationary Engineer Positions",
-    "exam": "As notified",
-    "application_mode": "ONLINE",
-    "apply_link": "https://sarkarinaukri.com/bel-announces-recruitment-for-340-probationary-engineer-positions/",
-    "tags": [
-      "Government",
-      "Jobs"
-    ]
-  },
-  {
-    "id": "3508a89ab741",
+    "id": "d26fd3011d61",
     "title": "रेल राजभाषा पत्रिका का 144 वें अंक",
     "org": "Railway Recruitment Board",
     "category": "Railways (RRB)",
@@ -296,7 +107,7 @@
     ]
   },
   {
-    "id": "c8c4b5fb9bc5",
+    "id": "7e25df2cee4c",
     "title": "Policies, Rules & Guidelines",
     "org": "Institute of Banking Personnel Selection",
     "category": "Banking (IBPS, SBI)",
@@ -322,7 +133,7 @@
     ]
   },
   {
-    "id": "1a1eec873edc",
+    "id": "d3294a05a5a3",
     "title": "Organisational Structure",
     "org": "Institute of Banking Personnel Selection",
     "category": "Banking (IBPS, SBI)",
@@ -348,7 +159,7 @@
     ]
   },
   {
-    "id": "9e7b013d50b1",
+    "id": "11e845bdd7a4",
     "title": "Organisational Divisions",
     "org": "Institute of Banking Personnel Selection",
     "category": "Banking (IBPS, SBI)",
@@ -374,7 +185,7 @@
     ]
   },
   {
-    "id": "9e57e85dd679",
+    "id": "7763d25b7ee6",
     "title": "India Post GDS 2026 Second Merit List / Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -400,7 +211,7 @@
     ]
   },
   {
-    "id": "140f105d211c",
+    "id": "c629fc2343a1",
     "title": "LIC AAO, AE Final Result 2026",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -426,7 +237,7 @@
     ]
   },
   {
-    "id": "61d2ca3e5ee3",
+    "id": "c67a442e6e0e",
     "title": "MPESB MP Police Constable 2025 Final Result",
     "org": "Various Govt Departments",
     "category": "Police & CRPF",
@@ -452,7 +263,7 @@
     ]
   },
   {
-    "id": "4548299bae26",
+    "id": "987abbe56a97",
     "title": "UPSC CPF AC 2025 Result Name Wise",
     "org": "Various Govt Departments",
     "category": "State PSC",
@@ -478,7 +289,7 @@
     ]
   },
   {
-    "id": "e74009af3cb4",
+    "id": "0ae48016dd13",
     "title": "KVS Class 1 Lottery Result 2026",
     "org": "Various Govt Departments",
     "category": "Teaching (KVS, NVS)",
@@ -504,7 +315,7 @@
     ]
   },
   {
-    "id": "a9f093d9bd56",
+    "id": "3736993cc87c",
     "title": "UPSC NDA II 2025 Final Result",
     "org": "Various Govt Departments",
     "category": "State PSC",
@@ -530,7 +341,7 @@
     ]
   },
   {
-    "id": "1d79fa34b64d",
+    "id": "2d47d9505d07",
     "title": "SSC CGL 2025 Final Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -556,7 +367,7 @@
     ]
   },
   {
-    "id": "2d897785cede",
+    "id": "c195959fa807",
     "title": "UPSSSC Rajasva Lekhpal 2022 New Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -582,7 +393,7 @@
     ]
   },
   {
-    "id": "e19bcfb1df44",
+    "id": "36a577b5e5be",
     "title": "Delhi DDA JSA 2025 Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -608,7 +419,7 @@
     ]
   },
   {
-    "id": "7b2d95618d77",
+    "id": "7f4fa1800fe3",
     "title": "Bihar Jeevika Result 2026",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -634,7 +445,7 @@
     ]
   },
   {
-    "id": "9d2355d7d30c",
+    "id": "66ce296c2e2c",
     "title": "UPPSC RO / ARO 2023 Final Result",
     "org": "Various Govt Departments",
     "category": "State PSC",
@@ -660,7 +471,7 @@
     ]
   },
   {
-    "id": "68a51b86688d",
+    "id": "0b3ff0c467bc",
     "title": "BSSC WO, Lower Division Clerk Final Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -686,7 +497,7 @@
     ]
   },
   {
-    "id": "3ff92b1a5af9",
+    "id": "66350830d54c",
     "title": "Delhi DDS Multi Tasking Staff MTS 2025 Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -712,7 +523,7 @@
     ]
   },
   {
-    "id": "92f9a8c62298",
+    "id": "8e7db946b89d",
     "title": "New India Assurance AO 2025 Final Result",
     "org": "Various Govt Departments",
     "category": "Other Jobs",
@@ -738,7 +549,7 @@
     ]
   },
   {
-    "id": "4d814591d774",
+    "id": "d03b79de364f",
     "title": "Gazette Notifications",
     "org": "India Post",
     "category": "General",
@@ -764,7 +575,7 @@
     ]
   },
   {
-    "id": "6cd7165606f7",
+    "id": "107d478c483e",
     "title": "Recruitment Rules",
     "org": "India Post",
     "category": "General",
@@ -790,7 +601,7 @@
     ]
   },
   {
-    "id": "ef00d47795bd",
+    "id": "be97d06372d7",
     "title": "Recruitments",
     "org": "India Post",
     "category": "General",
@@ -816,7 +627,7 @@
     ]
   },
   {
-    "id": "283f3bec53ad",
+    "id": "c3430d13a53a",
     "title": "Online application window for SSC (various entries) Jan 27 Course is live. Download Advertisement. Login to apply. (Closed)",
     "org": "Indian Navy",
     "category": "General",
@@ -842,7 +653,7 @@
     ]
   },
   {
-    "id": "5a9ab3de0f95",
+    "id": "856380aaf8c3",
     "title": "Apply Online",
     "org": "Indian Navy",
     "category": "General",
@@ -868,7 +679,7 @@
     ]
   },
   {
-    "id": "61c5f177089d",
+    "id": "d3d606af2bc0",
     "title": "Recruitment Instructions",
     "org": "CRPF",
     "category": "General",
@@ -894,7 +705,7 @@
     ]
   },
   {
-    "id": "4b5b00c05967",
+    "id": "22a459e316dc",
     "title": "Career Prospects",
     "org": "CRPF",
     "category": "General",
@@ -920,7 +731,7 @@
     ]
   },
   {
-    "id": "29b0f4cf26bb",
+    "id": "764891ab03d3",
     "title": "Vacancy Position",
     "org": "CRPF",
     "category": "General",
@@ -946,7 +757,7 @@
     ]
   },
   {
-    "id": "3928b939dc4c",
+    "id": "19c086511ba9",
     "title": "Recruitment Rules",
     "org": "CRPF",
     "category": "General",
@@ -972,7 +783,7 @@
     ]
   },
   {
-    "id": "12e05853554f",
+    "id": "8cd07962b694",
     "title": "CRPF में कांस्टेबल (तकनीकी एवं ट्रेड्समैन और पायनियर)(पुरुष/महिला)-2026 के पद के लिए भर्ती  ( हिन्दी )",
     "org": "CRPF",
     "category": "General",
@@ -998,7 +809,7 @@
     ]
   },
   {
-    "id": "19b893beaea2",
+    "id": "59c8d4c43bb7",
     "title": "Recruitment for the post of Constable (Technical & Tradesmen and Pioneer)  (Male/Female)-2026 in CRPF",
     "org": "CRPF",
     "category": "General",
@@ -1024,7 +835,7 @@
     ]
   },
   {
-    "id": "9080235889c1",
+    "id": "fa3fb1047708",
     "title": "List of selected candidate for appointment on Compassionate Grounds in CRPF. ((Vacancy released on 02/04/2026)",
     "org": "CRPF",
     "category": "General",
@@ -1050,7 +861,7 @@
     ]
   },
   {
-    "id": "230f9a78ba95",
+    "id": "9b55d5ca9872",
     "title": "List of  03 selected candidates for appointment on Compassionate Grounds in CRPF (Vacancies  released on 27/03/2026)",
     "org": "CRPF",
     "category": "General",
@@ -1076,7 +887,7 @@
     ]
   },
   {
-    "id": "1c65dc85cf8b",
+    "id": "8142c60048f9",
     "title": "List of 01 selected candidate for appointment on Compassionate Grounds in CRPF (Vacancies  released on 16/03/2026)",
     "org": "CRPF",
     "category": "General",
@@ -1102,7 +913,7 @@
     ]
   },
   {
-    "id": "71c657a7bfbb",
+    "id": "a40b5364fbee",
     "title": "List of 03 selected candidates for appointment on Compassionate Grounds in CRPF (Vacancies  released on 16/03/2026)",
     "org": "CRPF",
     "category": "General",
@@ -1128,7 +939,7 @@
     ]
   },
   {
-    "id": "7b3665b4754c",
+    "id": "22893d3de7eb",
     "title": "Recruitment Openings",
     "org": "BSF",
     "category": "General",
@@ -1154,7 +965,7 @@
     ]
   },
   {
-    "id": "a1d0ab75442d",
+    "id": "f06b4df73001",
     "title": "NOTICE: RECRUITMENT OF CONSTABLE (TRADESMEN) 2024–25: APPLICATIONS FOR CERTAIN POSTS/TRADES NOT PUBLISHED FOR THE CONCERNED STATE. CLICK HERE TO CHECK",
     "org": "BSF",
     "category": "General",
@@ -1180,7 +991,7 @@
     ]
   },
   {
-    "id": "2074c66fe2c0",
+    "id": "a2abca6fa400",
     "title": "CORRIGENDUM: DIRECT/DEPARTMENTAL RECRUITMENT FOR THE POST OF HEAD CONSTABLE (RO) AND (RM)IN BSF COMMMUNICATION SET UP-2025",
     "org": "BSF",
     "category": "General",
@@ -1206,7 +1017,7 @@
     ]
   },
   {
-    "id": "7a11207c2be7",
+    "id": "2300d91d6e69",
     "title": "COMPASSIONATE RECRUITMENT",
     "org": "ITBP",
     "category": "General",
@@ -1232,7 +1043,7 @@
     ]
   },
   {
-    "id": "b61837b57995",
+    "id": "6669bed3ffc3",
     "title": "LOGIN FOR OLD RECRUITMENT",
     "org": "ITBP",
     "category": "General",
@@ -1258,7 +1069,7 @@
     ]
   },
   {
-    "id": "65e8cf226ea8",
+    "id": "b759c4cc31dd",
     "title": "CANDIDATES DESIROUS OF AVAILING SC/ST/OBC(NON CREAMY LAYERS) EWS BENEFITS AT THE TIME OF RECRUITMENTS OR AT A LATER STAGE SHALL PRODUCE A VALID CERTIFICATE TO THAT EFFECT AT THE TIME OF DV/DME/RME.",
     "org": "ITBP",
     "category": "General",
@@ -1284,7 +1095,7 @@
     ]
   },
   {
-    "id": "36cdbba4a474",
+    "id": "1327cc50d091",
     "title": "Download Admit Card for PET/PST - 2025",
     "org": "ITBP",
     "category": "General",
@@ -1310,7 +1121,7 @@
     ]
   },
   {
-    "id": "4dfd0c47d6e0",
+    "id": "bf642fc2a443",
     "title": "Download Admit Card for PET/PST -2025 (Only for AC/GD)",
     "org": "ITBP",
     "category": "General",
@@ -1336,7 +1147,7 @@
     ]
   },
   {
-    "id": "f998c5db172b",
+    "id": "880c65ecc210",
     "title": "FOR DOWNLOADING ADMIT CARD FOR THE POST OF INSPECTOR(HINDI TRANSLATOR) MUST LOG IN THEIR ACCOUNT IN ITBP RECRUITMENT OFFICIAL WEBSITE AND DOWNLOAD THEIR ADMIT CARD VIA MY APPLICATION--> ADMIT CARD DOWNLOAD",
     "org": "ITBP",
     "category": "General",
@@ -1362,7 +1173,7 @@
     ]
   },
   {
-    "id": "f42ba6eb4811",
+    "id": "d81fffb356db",
     "title": "Recruitment Schemes",
     "org": "ITBP",
     "category": "General",
@@ -1388,7 +1199,7 @@
     ]
   },
   {
-    "id": "2bb3828be72f",
+    "id": "6fc30291a682",
     "title": "RECRUITMENT FOR THE POST OF CONSTABLE (BARBER) AND CONSTABLE (WASHERMAN)- 2025 IN SECRETARIAT SECURITY FORCE (SSF)",
     "org": "ITBP",
     "category": "General",
@@ -1414,7 +1225,7 @@
     ]
   },
   {
-    "id": "c3200482e02a",
+    "id": "416e93b7e653",
     "title": "Current Openings",
     "org": "SBI",
     "category": "General",
@@ -1440,7 +1251,7 @@
     ]
   },
   {
-    "id": "772e32da85f8",
+    "id": "c3a693946c78",
     "title": "Recruitment Results",
     "org": "SBI",
     "category": "General",
@@ -1466,7 +1277,7 @@
     ]
   },
   {
-    "id": "4d18c065e499",
+    "id": "01610526eb71",
     "title": "Recruitment Results & Archive",
     "org": "SBI",
     "category": "General",
@@ -1492,7 +1303,7 @@
     ]
   },
   {
-    "id": "b1d96fb93f26",
+    "id": "746cb02a1036",
     "title": "What are we looking for",
     "org": "SBI",
     "category": "General",
@@ -1518,7 +1329,7 @@
     ]
   },
   {
-    "id": "b385e6943b42",
+    "id": "f572494589f6",
     "title": "World of opportunities",
     "org": "SBI",
     "category": "General",
@@ -1544,7 +1355,7 @@
     ]
   },
   {
-    "id": "a1f3bcb80bc3",
+    "id": "3ca8d5be8997",
     "title": "Growth oriented culture",
     "org": "SBI",
     "category": "General",
@@ -1570,7 +1381,7 @@
     ]
   },
   {
-    "id": "8187e96278e0",
+    "id": "0634e86d7971",
     "title": "Best in class benefits",
     "org": "SBI",
     "category": "General",
@@ -1596,7 +1407,7 @@
     ]
   },
   {
-    "id": "3f1d7b1ae3d9",
+    "id": "06ff04cf3029",
     "title": "LIFE AT THE SBI",
     "org": "SBI",
     "category": "General",
@@ -1622,7 +1433,7 @@
     ]
   },
   {
-    "id": "ce6d12b5ae50",
+    "id": "aaac71e1d1d2",
     "title": "Employee Onboarding",
     "org": "SBI",
     "category": "General",
@@ -1648,7 +1459,7 @@
     ]
   },
   {
-    "id": "a0294e3d1e2b",
+    "id": "718ed6f6aeb9",
     "title": "Learning & Development",
     "org": "SBI",
     "category": "General",
@@ -1700,7 +1511,7 @@
     ]
   },
   {
-    "id": "9795ea6021f3",
+    "id": "063c01457fdd",
     "title": "How do You Apply?",
     "org": "RBI",
     "category": "General",
@@ -1726,7 +1537,7 @@
     ]
   },
   {
-    "id": "40358967b261",
+    "id": "3e27357e13b7",
     "title": "Important Notice - Recruitment for the Post of Assistant – Panel Year 2025 in Reserve Bank of India",
     "org": "RBI",
     "category": "General",
@@ -1752,7 +1563,7 @@
     ]
   },
   {
-    "id": "4c5c82f2e7d9",
+    "id": "fa778cd730cb",
     "title": "Edit Window for Candidates to Modify/ Correct Application Form - Recruitment for the Post of Assistant – Panel Year 2025 in Reserve Bank of India",
     "org": "RBI",
     "category": "General",
@@ -1778,7 +1589,7 @@
     ]
   },
   {
-    "id": "f64f6cdb08a3",
+    "id": "3c86c2f886d8",
     "title": "Corrigendum - Recruitment for the Post of Assistant – Panel Year 2025 in Reserve Bank of India",
     "org": "RBI",
     "category": "General",
@@ -1804,7 +1615,7 @@
     ]
   },
   {
-    "id": "99e3351d23f4",
+    "id": "75d22ed2377e",
     "title": "Corrigendum - Recruitment for Various Posts in Non-CSG Cadres in Reserve Bank of India – Panel Year 2026",
     "org": "RBI",
     "category": "General",
@@ -1830,7 +1641,7 @@
     ]
   },
   {
-    "id": "819fd7d2eaa8",
+    "id": "094de9303a7d",
     "title": "Recruitment for the Post of Assistant – Panel Year 2025 in Reserve Bank of India",
     "org": "RBI",
     "category": "General",
@@ -1856,7 +1667,7 @@
     ]
   },
   {
-    "id": "59b08d614b4a",
+    "id": "c3f026eeae8b",
     "title": "Edit Window for Candidates to Modify/ Correct Application Form - Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel Year 2025",
     "org": "RBI",
     "category": "General",
@@ -1882,7 +1693,7 @@
     ]
   },
   {
-    "id": "499ac8d7df33",
+    "id": "8c87c2542702",
     "title": "Recruitment for Various Posts in Non-CSG Cadres in Reserve Bank of India – Panel Year 2026",
     "org": "RBI",
     "category": "General",
@@ -1908,7 +1719,7 @@
     ]
   },
   {
-    "id": "de2d9e903f5a",
+    "id": "0b32e56c850c",
     "title": "Corrigendum - Recruitment for the Post of Office Attendant in Reserve Bank of India - Panel Year 2025",
     "org": "RBI",
     "category": "General",
@@ -1934,7 +1745,7 @@
     ]
   },
   {
-    "id": "713780e05ce8",
+    "id": "796ba6449181",
     "title": "CAREER NOTICES",
     "org": "NABARD",
     "category": "General",
@@ -1960,7 +1771,7 @@
     ]
   },
   {
-    "id": "18aedb3545af",
+    "id": "082c2a2591c9",
     "title": "Click here to view career progression in DOS/ISRO.",
     "org": "ISRO",
     "category": "General",
@@ -1986,7 +1797,7 @@
     ]
   },
   {
-    "id": "e3712f5e2259",
+    "id": "61cd885c66eb",
     "title": "ADVT. NO. IIST/Admin/RMT/14-2026 (1) dated 14.02.2026 - Recruitment for the post of Registrar, IIST \nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2012,7 +1823,7 @@
     ]
   },
   {
-    "id": "dd5951f8e83a",
+    "id": "a1f6acf350e2",
     "title": "Advt No. DOS/IV/1/2026 - Result for Engaging as Legal Consultant in DOS on contract basis \nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2038,7 +1849,7 @@
     ]
   },
   {
-    "id": "f63c32539643",
+    "id": "7a5c20c45c07",
     "title": "ADVT. NO.URSC:01:2026 dated 21.03.2026 - Recruitment to the posts of Scientist/Engineer - 'SC', Scientist/Engineer - 'SD' & Medical Officer - 'SC' \nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2064,7 +1875,7 @@
     ]
   },
   {
-    "id": "8da09b43d731",
+    "id": "691aca5db890",
     "title": "Addendum - I dated 19.02.2026 to Advertisement No.NESAC/RMT-TEMP/WI-01/2026 dated 12.02.2026 for the positions of Research Scientist and Junior Research Fellow \nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2090,7 +1901,7 @@
     ]
   },
   {
-    "id": "ba260aca1f91",
+    "id": "71803acb4607",
     "title": "Advertisement No.ISRO:ICRB:03(CEPO):2025 dated 24.06.2025, Tentative Interview schedule for CEPO interviews - 2025\nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2116,7 +1927,7 @@
     ]
   },
   {
-    "id": "a908f3939096",
+    "id": "f8c941ffbf36",
     "title": "Advt.No.ISRO:ICRB:02(A-JPA):2022 - VALIDITY OF THE SELECTION PANELS HAS BEEN EXTENDED UPTO 12.08.2026\nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2142,7 +1953,7 @@
     ]
   },
   {
-    "id": "7be4165b0cff",
+    "id": "2d10568a5365",
     "title": "Advertisement No.NESAC/RMT-TEMP/WI-01/2026 dated 12.02.2026 for the positions of Research Scientist and Junior Research\nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2168,7 +1979,7 @@
     ]
   },
   {
-    "id": "572553c52906",
+    "id": "8c1861740e21",
     "title": "Advt.No.DS_8C-12013/4/2025-Sec.VIII Dated 31.01.2026 inviting applications for the post of Director National Atmospheric Research Laboratory (NARL) , Gadanki, AP in Level-14 of pay matrix under 7 th CPC.\nRead More",
     "org": "ISRO",
     "category": "General",
@@ -2194,7 +2005,7 @@
     ]
   },
   {
-    "id": "0c2b264d93b1",
+    "id": "ee046be405e1",
     "title": "Why Work With ONGC",
     "org": "ONGC",
     "category": "General",
@@ -2220,7 +2031,7 @@
     ]
   },
   {
-    "id": "843efd680e0e",
+    "id": "31d0c7cc2979",
     "title": "Recruitment Policy",
     "org": "ONGC",
     "category": "General",
@@ -2246,7 +2057,7 @@
     ]
   },
   {
-    "id": "0ec137bc2a17",
+    "id": "68abb17720d7",
     "title": "Recruitment Notices",
     "org": "ONGC",
     "category": "General",
@@ -2272,7 +2083,7 @@
     ]
   },
   {
-    "id": "207c29e792ac",
+    "id": "a56952cfa83c",
     "title": "Audio-Visuals",
     "org": "ONGC",
     "category": "General",
@@ -2298,7 +2109,7 @@
     ]
   },
   {
-    "id": "4fd31f612108",
+    "id": "6eafcbf3566f",
     "title": "Act, Rules and Notifications",
     "org": "BARC",
     "category": "General",
@@ -2324,7 +2135,7 @@
     ]
   },
   {
-    "id": "91cae4774998",
+    "id": "ee085968ad61",
     "title": "Career Opportunities",
     "org": "BARC",
     "category": "General",
@@ -2376,7 +2187,7 @@
     ]
   },
   {
-    "id": "66ff319653c0",
+    "id": "365c0e81c360",
     "title": "New Vacancies",
     "org": "BARC",
     "category": "General",
@@ -2402,7 +2213,7 @@
     ]
   },
   {
-    "id": "7646b1d0136f",
+    "id": "63fe53d2b9a6",
     "title": "Interviews & Results",
     "org": "BARC",
     "category": "General",
@@ -2428,7 +2239,7 @@
     ]
   },
   {
-    "id": "60cdc4eaf5bf",
+    "id": "bf09543f8982",
     "title": "Human Resources",
     "org": "BARC",
     "category": "General",
@@ -2454,7 +2265,7 @@
     ]
   },
   {
-    "id": "5137ad139c16",
+    "id": "a815a2116bde",
     "title": "Assistants & Technicians",
     "org": "BARC",
     "category": "General",
@@ -2506,7 +2317,7 @@
     ]
   },
   {
-    "id": "5fd238bfe49b",
+    "id": "c954a0fe183f",
     "title": "Career Growth",
     "org": "BARC",
     "category": "General",
@@ -2532,7 +2343,7 @@
     ]
   },
   {
-    "id": "0ad3c2fa2fb4",
+    "id": "b1a51099261e",
     "title": "DAE Doctoral Fellowship Scheme",
     "org": "BARC",
     "category": "General",
@@ -2558,7 +2369,7 @@
     ]
   },
   {
-    "id": "68654d31cb34",
+    "id": "dc66abf5e47c",
     "title": "एंडपॉइंट डिटेक्शन एंड रिस्पांस (ईडीआर) एंटीवायरस सॉल्यूशन के कार्यान्वयन और रखरखाव के लिए एजेंसी के चयन हेतु निविदा आमंत्रण (आरएफपी)",
     "org": "FCI",
     "category": "General",
@@ -2584,7 +2395,7 @@
     ]
   },
   {
-    "id": "eeb0f7b0dd28",
+    "id": "89d38bfbfbc8",
     "title": "वित्तीय वर्ष 2024-25 के लिए सीपीएफ पर ब्याज दर",
     "org": "FCI",
     "category": "General",
@@ -2610,7 +2421,7 @@
     ]
   },
   {
-    "id": "ec53207d851b",
+    "id": "792d67168d8f",
     "title": "एफ़सीआई द्वारा अपने हितधारकों के लिए शिकायत निवारण के लिए वीसी लिंक (वीसी लिंक के लिए यहां क्लिक करें) एवं चावल मिलर्स के लिए टोल फ्री हेल्पलाइन न. 18003090134 जारी किया गया है ।",
     "org": "FCI",
     "category": "General",
@@ -2636,7 +2447,7 @@
     ]
   },
   {
-    "id": "57cd161a3360",
+    "id": "f3928b9a7289",
     "title": "एफसीआई ओएमएमएस (डी) के तहत साप्ताहिक ई-निलामी में 4 लाख मीटन गेंहू और 2 लाख मीटन चावल की पेशकश कर रहा है, विस्तृत जानकारी और भागीदारी के लिए कृपया इस लिंक पर क्लिक करें. http://www.valuejunction.in/fci/",
     "org": "FCI",
     "category": "General",
@@ -2662,7 +2473,7 @@
     ]
   },
   {
-    "id": "fe5afbe85876",
+    "id": "5dbfe07766b5",
     "title": "नववर्ष 2024 पर सीएमडी के डेस्क से संदेश",
     "org": "FCI",
     "category": "General",
@@ -2688,7 +2499,7 @@
     ]
   },
   {
-    "id": "82b99305175f",
+    "id": "d4b6c36938eb",
     "title": "चावल मिल-मालिकों की शिकायतों को दूर करने के लिए पहलें, जो भारतीय खाद्य निगम की वेबसाइट के माध्यम से भारतीय खाद्य निगम को कस्टम मिल्ड चावल (सीएमआर) वितरित कर रहे हैं और पहलों के व्यापक प्रचार के लिए सभी गोदामों और डीओ पर बैनर चिपका रहे हैं",
     "org": "FCI",
     "category": "General",
@@ -2714,7 +2525,7 @@
     ]
   },
   {
-    "id": "2fa15ae74ebb",
+    "id": "34031b149507",
     "title": "ओएमएसएस(डी) के तहत गेहूं और चावल की खरीद के लिए निजी पार्टियों/व्यापारियों के लिए पैनल/पंजीकरण खुला है । इच्छुक पार्टियां ई-सेवा प्रदाता की वैबसाइट www.valuejunction.in/fci/ के माध्यम से खुद को सूचीबद्ध/पंजीकृत कवा सकती है । छोटे निजी व्यापारी भी खुदरा बिक्री योजना के तहत गेहूं खरीद के लिए खुद को सूचीबद्ध करवा सकते है ।",
     "org": "FCI",
     "category": "General",
@@ -2740,7 +2551,7 @@
     ]
   },
   {
-    "id": "5b16d0a4f19c",
+    "id": "b9e9e355db95",
     "title": "Passbook updates for wage months Sept–Oct 2025 are under process due to revamped ECR ledger posting. Temporary non-visibility of contributions is expected for a couple of days. Inconvenience is regretted.",
     "org": "EPFO",
     "category": "General",
@@ -2766,7 +2577,7 @@
     ]
   },
   {
-    "id": "240a2e0e79c4",
+    "id": "116f005174c2",
     "title": "EPFO has been improving and enhancing its services through various technical upgrades. The inconvenience caused to Members due to intermittent disruption in claim filing services is deeply regretted. We request Members to please bear with us as we are resolving this issue to provide seamless services.",
     "org": "EPFO",
     "category": "General",
@@ -2792,7 +2603,7 @@
     ]
   },
   {
-    "id": "c4127ca131c2",
+    "id": "78fba02e0c83",
     "title": "\"A new functionality on Unified Portal has been launched to facilitate members and Employers to submit Member profile updation requests online\"",
     "org": "EPFO",
     "category": "General",
@@ -2818,7 +2629,7 @@
     ]
   },
   {
-    "id": "4523ef538a17",
+    "id": "204eba8ac41c",
     "title": "Cancellation/Grant Notification",
     "org": "EPFO",
     "category": "General",
@@ -2870,7 +2681,7 @@
     ]
   },
   {
-    "id": "c529e091e300",
+    "id": "698ad7a6fc6b",
     "title": "National Career Service",
     "org": "EPFO",
     "category": "General",
@@ -2896,7 +2707,7 @@
     ]
   },
   {
-    "id": "2fd12518a93a",
+    "id": "afa96b9faa53",
     "title": "CORRIGENDUM REGARDING FILLING UP THE POST OF VIGILANCE ASSISTANT ON DEPUTATION BASIS IN EPFO",
     "org": "EPFO",
     "category": "General",
@@ -2922,7 +2733,7 @@
     ]
   },
   {
-    "id": "32965ca2628f",
+    "id": "51e52ea797bd",
     "title": "CORRIGENDUM REGARDING FILLING UP THE POST OF DEPUTY DIRECTOR (AUDIT) AND ASSISTANT DIRECTOR (AUDIT) ON DEPUTATION BASIS IN EPFO",
     "org": "EPFO",
     "category": "General",
@@ -2948,7 +2759,7 @@
     ]
   },
   {
-    "id": "8001cd11de8a",
+    "id": "39a7b886d297",
     "title": "CORRIGENDUM REGARDING EXTENSION OF LAST DATE FOR SUBMISSION OF APPLICATION FOR THE VARIOUS POSTS IN PHYSICAL INFRASTRUCTURE DIVISION (PFD) DIVISION IN EPFO ON DEPUTATION BASIS",
     "org": "EPFO",
     "category": "General",
@@ -3000,7 +2811,7 @@
     ]
   },
   {
-    "id": "f41f210c8803",
+    "id": "76e26722f6ff",
     "title": "Recruitment Rules",
     "org": "KVS",
     "category": "General",
@@ -3052,7 +2863,7 @@
     ]
   },
   {
-    "id": "4c833a828a7d",
+    "id": "07116dfd40b1",
     "title": "Notifications/Recruitment",
     "org": "KVS",
     "category": "General",
@@ -3104,7 +2915,7 @@
     ]
   },
   {
-    "id": "bd2863cdd456",
+    "id": "0c846e12ed79",
     "title": "Recruitment Rules",
     "org": "NVS",
     "category": "General",
@@ -3130,7 +2941,7 @@
     ]
   },
   {
-    "id": "103207614032",
+    "id": "a7743cdf465f",
     "title": "Recruitment",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3156,7 +2967,7 @@
     ]
   },
   {
-    "id": "c27a00911d59",
+    "id": "031d35ec2885",
     "title": "Online Notifications",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3182,7 +2993,7 @@
     ]
   },
   {
-    "id": "d834592ee3ed",
+    "id": "d54de43e98a8",
     "title": "Apply Online",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3208,7 +3019,7 @@
     ]
   },
   {
-    "id": "c1991667c025",
+    "id": "b6511433d14e",
     "title": "Interview Only",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3234,7 +3045,7 @@
     ]
   },
   {
-    "id": "d92036df93cf",
+    "id": "86a52dbab577",
     "title": "Screening Test And Interview",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3260,7 +3071,7 @@
     ]
   },
   {
-    "id": "1d1e99da9e76",
+    "id": "2927e4de377f",
     "title": "Examination Only",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3286,7 +3097,7 @@
     ]
   },
   {
-    "id": "d5049bdf2e5b",
+    "id": "59988ee8091f",
     "title": "Examination And Interview Only",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3312,7 +3123,7 @@
     ]
   },
   {
-    "id": "4a92a109d091",
+    "id": "71b7aaed4e1d",
     "title": "Pre Examination, Main Examination And Interview",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3338,7 +3149,7 @@
     ]
   },
   {
-    "id": "b16af647119c",
+    "id": "3c1b63828747",
     "title": "All Notifications/ Advertisements",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3364,7 +3175,7 @@
     ]
   },
   {
-    "id": "c0cc09f77e30",
+    "id": "77f468ab9ca7",
     "title": "Apply for Post",
     "org": "UPPSC (UP)",
     "category": "General",
@@ -3390,7 +3201,7 @@
     ]
   },
   {
-    "id": "600dfb8f7663",
+    "id": "433007284c7a",
     "title": "Recruitment Advertisements",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3416,7 +3227,7 @@
     ]
   },
   {
-    "id": "6f7c76f25d72",
+    "id": "2ba5e8c6a7de",
     "title": "Computer Based Recruitment Test (CBRT)",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3442,7 +3253,7 @@
     ]
   },
   {
-    "id": "cc0434bbeddf",
+    "id": "9f0391e163cf",
     "title": "Apply Online",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3468,7 +3279,7 @@
     ]
   },
   {
-    "id": "8cf70aefa3c1",
+    "id": "7daca21c30ef",
     "title": "10/04/2026 Main Merit List for Archives Department Recruitment - 2024 (Research Officer)",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3494,7 +3305,7 @@
     ]
   },
   {
-    "id": "dbdb900b7856",
+    "id": "067962916e79",
     "title": "10/04/2026 Final Answer Key for Archives Department Recruitment - 2024(Research Officer)",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3520,7 +3331,7 @@
     ]
   },
   {
-    "id": "8105b1eb1553",
+    "id": "3ce845b0da30",
     "title": "10/04/2026 Marks for Archives Department Recruitment 2024 (Research Officer)",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3546,7 +3357,7 @@
     ]
   },
   {
-    "id": "38f4b6111661",
+    "id": "60b7984dd905",
     "title": "09/04/2026 Corrigendum No. 01/2026-27 for Veterinary Officer - 2025",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3572,7 +3383,7 @@
     ]
   },
   {
-    "id": "e31e69da0aea",
+    "id": "c49481bca0fc",
     "title": "07/04/2026 Result Preamble and Cutoff Marks (Main List) for Archives Department Recruitment - 2024 (Research Officer)",
     "org": "RPSC (Rajasthan)",
     "category": "General",
@@ -3598,7 +3409,7 @@
     ]
   },
   {
-    "id": "f4b7aa46089f",
+    "id": "4dc6573ce3b3",
     "title": "Advertisements / Notifications / Corrigendums",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3624,7 +3435,7 @@
     ]
   },
   {
-    "id": "2c48bb0c9a83",
+    "id": "aedc9306bd7a",
     "title": "Results of Examinations/Recruitment",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3650,7 +3461,7 @@
     ]
   },
   {
-    "id": "854f07873963",
+    "id": "594e24b4a326",
     "title": "List of Eligible Candidates after scrutiny",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3676,7 +3487,7 @@
     ]
   },
   {
-    "id": "64297d5cbc97",
+    "id": "82b4bb0be71e",
     "title": "Advt. No. 010/2026 Maharashtra Group-B Non-Gazetted Services Combined Main Examination 2025 - Notification",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3702,7 +3513,7 @@
     ]
   },
   {
-    "id": "7cccbee01ce7",
+    "id": "e11796b726a5",
     "title": "Announcement regarding the implementation of minimum percentile qualification for direct recruitment process as in competitive examination",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3728,7 +3539,7 @@
     ]
   },
   {
-    "id": "8e50770d191c",
+    "id": "c4ba22e088f1",
     "title": "Typing Skills Test for the examinations requiring Typing Certificate as per the Recruitment Rules -Announcement",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3754,7 +3565,7 @@
     ]
   },
   {
-    "id": "149c0ce028bc",
+    "id": "5711b7cd2f0f",
     "title": "Regarding interviews conducted for direct recruitment based on specific educational qualification and/or experience",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3780,7 +3591,7 @@
     ]
   },
   {
-    "id": "058b49f775e6",
+    "id": "7687f4c42e1e",
     "title": "Change in the prevailing procedure of opting out of the recruitment process.",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3806,7 +3617,7 @@
     ]
   },
   {
-    "id": "3baedf5c9a73",
+    "id": "c3d5c0532b24",
     "title": "Recruitment Procedure Adopted by Maharashtra Public Service Commission",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3832,7 +3643,7 @@
     ]
   },
   {
-    "id": "016269a9fe45",
+    "id": "bd9916fad152",
     "title": "Regarding improvement in the selection process for recruitments conducted by the Commission",
     "org": "MPSC (Maharashtra)",
     "category": "General",
@@ -3858,7 +3669,7 @@
     ]
   },
   {
-    "id": "f9cd5446feb1",
+    "id": "cb9a10e45061",
     "title": "Recruitment Advertisement for Assistant Director, Farmers Welfare and Agriculture Development (Statistics) 2026 (Advt. No./09/2026), Dated 10/04/2026",
     "org": "MPPSC (MP)",
     "category": "General",
@@ -3884,7 +3695,7 @@
     ]
   },
   {
-    "id": "94fd6a4031f7",
+    "id": "200037e443fc",
     "title": "Recruitment Advertisement for Assistant Accounts Officer/Assistant Director Farmer Welfare and Agriculture Development Department (Accounts and Establishment) 2026 (Advt. No. 08/2026), Dated 10/04/2026",
     "org": "MPPSC (MP)",
     "category": "General",
@@ -3910,7 +3721,7 @@
     ]
   },
   {
-    "id": "98a8bdbe10cd",
+    "id": "97aa5a0769fd",
     "title": "Recruitment Advertisement for Internal Accounts Examiner Officer Exam 2026 (Advt. No./10/2026), Dated 10/04/2026",
     "org": "MPPSC (MP)",
     "category": "General",
@@ -3936,7 +3747,7 @@
     ]
   },
   {
-    "id": "0e4737cc785c",
+    "id": "68ffe5c189d2",
     "title": "Recruitment Advertisement for Assistant Research Officer Exam 2024 (Advt. No./12/2024) Dated 28/12/2024",
     "org": "MPPSC (MP)",
     "category": "General",
@@ -3962,7 +3773,7 @@
     ]
   },
   {
-    "id": "3bae64db393c",
+    "id": "0f5524a93c0f",
     "title": "Recruitment Advertisement for Scientific Officer Physics 2026 (Adv No./05/2026), Dated 16/03/2026",
     "org": "MPPSC (MP)",
     "category": "General",
@@ -3988,7 +3799,7 @@
     ]
   },
   {
-    "id": "29475b0d60ed",
+    "id": "6cdbb3362e49",
     "title": "Recruitment Advertisement for Scientific Officer Chemistry 2026 (Adv No./06/2026), Dated 16/03/2026",
     "org": "MPPSC (MP)",
     "category": "General",
@@ -4014,7 +3825,7 @@
     ]
   },
   {
-    "id": "4e39bcab62ed",
+    "id": "11c4829b7453",
     "title": "Join the IAF",
     "org": "Indian Air Force",
     "category": "General",
@@ -4040,7 +3851,7 @@
     ]
   },
   {
-    "id": "313e253475a9",
+    "id": "8870e7c5a0f2",
     "title": "Career Planning",
     "org": "Indian Air Force",
     "category": "General",
@@ -4066,7 +3877,7 @@
     ]
   },
   {
-    "id": "0ee270590e2c",
+    "id": "67c313c45727",
     "title": "RECRUITMENT",
     "org": "KPSC (Kerala)",
     "category": "General",
@@ -4092,7 +3903,7 @@
     ]
   },
   {
-    "id": "f9a580e32870",
+    "id": "7bebdbafee34",
     "title": "Notifications",
     "org": "KPSC (Kerala)",
     "category": "General",
@@ -4115,6 +3926,474 @@
     "tags": [
       "KPSC (Kerala)",
       "Govt Job"
+    ]
+  },
+  {
+    "id": "8dc0fe704b7d",
+    "title": "रेल राजभाषा पत्रिका का 144 वें अंक",
+    "org": "Railway Recruitment Board",
+    "category": "Railways (RRB)",
+    "category_id": "railways",
+    "level": "Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://indianrailways.gov.in/railwayboard/uploads/directorate/official_lang/2026/144th_Rail_Rajbhasha.pdf",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": true,
+    "type": "Permanent",
+    "min_qual_id": "tenth",
+    "qualification": "10th Pass / ITI",
+    "age": "18-30 years",
+    "salary": "₹19,900 - ₹35,400",
+    "posts": 0,
+    "description": "Railway Recruitment: रेल राजभाषा पत्रिका का 144 वें अंक",
+    "tags": [
+      "RRB",
+      "Railways"
+    ]
+  },
+  {
+    "id": "cb36c209ff8d",
+    "title": "Policies, Rules & Guidelines",
+    "org": "Institute of Banking Personnel Selection",
+    "category": "Banking (IBPS, SBI)",
+    "category_id": "banking",
+    "level": "Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.ibps.in/index.php/policies-rules-guidelines/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "graduate",
+    "qualification": "Any Graduate",
+    "age": "20-30 years",
+    "salary": "₹29,000 - ₹42,000",
+    "posts": 0,
+    "description": "Banking Job: Policies, Rules & Guidelines",
+    "tags": [
+      "Bank",
+      "IBPS"
+    ]
+  },
+  {
+    "id": "afb95940a0bc",
+    "title": "Organisational Structure",
+    "org": "Institute of Banking Personnel Selection",
+    "category": "Banking (IBPS, SBI)",
+    "category_id": "banking",
+    "level": "Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.ibps.in/index.php/organisational-structure/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "graduate",
+    "qualification": "Any Graduate",
+    "age": "20-30 years",
+    "salary": "₹29,000 - ₹42,000",
+    "posts": 0,
+    "description": "Banking Job: Organisational Structure",
+    "tags": [
+      "Bank",
+      "IBPS"
+    ]
+  },
+  {
+    "id": "d5113ab4c393",
+    "title": "Organisational Divisions",
+    "org": "Institute of Banking Personnel Selection",
+    "category": "Banking (IBPS, SBI)",
+    "category_id": "banking",
+    "level": "Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.ibps.in/index.php/organisational-divisions/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "graduate",
+    "qualification": "Any Graduate",
+    "age": "20-30 years",
+    "salary": "₹29,000 - ₹42,000",
+    "posts": 0,
+    "description": "Banking Job: Organisational Divisions",
+    "tags": [
+      "Bank",
+      "IBPS"
+    ]
+  },
+  {
+    "id": "3f39aa3ae92a",
+    "title": "India Post GDS 2026 Second Merit List / Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/2026/india-post-gds-2026/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: India Post GDS 2026 Second Merit List / Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "afe0af6783be",
+    "title": "LIC AAO, AE Final Result 2026",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/bank/lic-aao-ae-2025/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: LIC AAO, AE Final Result 2026",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "d7f27e8e6b84",
+    "title": "MPESB MP Police Constable 2025 Final Result",
+    "org": "Various Govt Departments",
+    "category": "Police & CRPF",
+    "category_id": "police",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/mp/mpesb-constable-2025/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: MPESB MP Police Constable 2025 Final Result",
+    "tags": [
+      "Govt Job",
+      "Police & CRPF"
+    ]
+  },
+  {
+    "id": "dbae29855975",
+    "title": "UPSC CPF AC 2025 Result Name Wise",
+    "org": "Various Govt Departments",
+    "category": "State PSC",
+    "category_id": "psc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/upsc/upsc-cpf-ac-capf-2025/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: UPSC CPF AC 2025 Result Name Wise",
+    "tags": [
+      "Govt Job",
+      "State PSC"
+    ]
+  },
+  {
+    "id": "6877e101aee6",
+    "title": "KVS Class 1 Lottery Result 2026",
+    "org": "Various Govt Departments",
+    "category": "Teaching (KVS, NVS)",
+    "category_id": "teaching",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/2026/kvs-class-1-admissions/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: KVS Class 1 Lottery Result 2026",
+    "tags": [
+      "Govt Job",
+      "Teaching (KVS, NVS)"
+    ]
+  },
+  {
+    "id": "d53fcdc89f39",
+    "title": "UPSC NDA II 2025 Final Result",
+    "org": "Various Govt Departments",
+    "category": "State PSC",
+    "category_id": "psc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/upsc/upsc-nda-ii-2025/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: UPSC NDA II 2025 Final Result",
+    "tags": [
+      "Govt Job",
+      "State PSC"
+    ]
+  },
+  {
+    "id": "9f1f2aaf5443",
+    "title": "SSC CGL 2025 Final Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/ssc/ssc-cgl-2025/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: SSC CGL 2025 Final Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "eb04903e8536",
+    "title": "UPSSSC Rajasva Lekhpal 2022 New Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/upsssc/upsssc-lekhpal-01-2022/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: UPSSSC Rajasva Lekhpal 2022 New Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "ff06e062adb1",
+    "title": "Delhi DDA JSA 2025 Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://tinyurl.com/b3p5z59h",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: Delhi DDA JSA 2025 Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "315801cb7244",
+    "title": "Bihar Jeevika Result 2026",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://cdn3.digialm.com//EForms/configuredHtml/1631/95045/login.html",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: Bihar Jeevika Result 2026",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "8f83d2afcc1b",
+    "title": "UPPSC RO / ARO 2023 Final Result",
+    "org": "Various Govt Departments",
+    "category": "State PSC",
+    "category_id": "psc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/2023/uppsc-ro-aro-oct23/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: UPPSC RO / ARO 2023 Final Result",
+    "tags": [
+      "Govt Job",
+      "State PSC"
+    ]
+  },
+  {
+    "id": "5864016c62be",
+    "title": "BSSC WO, Lower Division Clerk Final Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://www.sarkariresult.com/bihar/bssc-wo-ldc-apr25/",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: BSSC WO, Lower Division Clerk Final Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "7993779670af",
+    "title": "Delhi DDS Multi Tasking Staff MTS 2025 Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://tinyurl.com/54n69s86",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: Delhi DDS Multi Tasking Staff MTS 2025 Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
+    ]
+  },
+  {
+    "id": "38b61e592c9e",
+    "title": "New India Assurance AO 2025 Final Result",
+    "org": "Various Govt Departments",
+    "category": "Other Jobs",
+    "category_id": "groupc",
+    "level": "State/Central",
+    "state": "All India",
+    "state_id": "all_india",
+    "application_mode": "ONLINE",
+    "apply_link": "https://tinyurl.com/6h8ww29a",
+    "deadline": "2026-05-10",
+    "posted": "Recently",
+    "featured": false,
+    "type": "Permanent",
+    "min_qual_id": "twelfth",
+    "qualification": "12th / Graduate",
+    "age": "18-35 years",
+    "salary": "As per notification",
+    "posts": 0,
+    "description": "Latest recruitment: New India Assurance AO 2025 Final Result",
+    "tags": [
+      "Govt Job",
+      "Other Jobs"
     ]
   }
 ]
